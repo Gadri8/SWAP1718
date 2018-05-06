@@ -71,14 +71,27 @@ HAProxy ha sido elegido como balanceador de carga para grandes servicio web como
 
 **Comparación**
 
-Las dos soluciones son totalmente gratuitos y funcionales.
-Prácticamnete tienen las mismas funcionalidades, son muy buenas soluciones para balanceo de carga, es posible su uso como proxy inverso, pero por parte de Nginx nos ofrece un servicio web completo que haproxy no.
-Ambos son asíncronos por consurrencia, usados en balanceo de carga, poseen descarga SSL y compatibles con SPDY por complementos.
-Nginx tiene complemento estáticamente compilado.
+* Las dos soluciones son totalmente gratuitos y funcionales.
+* Prácticamnete tienen las mismas funcionalidades, son muy buenas soluciones para balanceo de carga, es posible su uso como proxy inverso, pero por parte de Nginx nos ofrece un servicio web completo que haproxy no.
+* Ambos son asíncronos por consurrencia, usados en balanceo de carga, poseen descarga SSL y compatibles con SPDY por complementos.
+* Nginx tiene complemento estáticamente compilado.
 y HAProxy posee una consola de adminstración.
-Por su parte Nginx es multiplataforma pero HAProxy es compatible con proxy TCP. 
-Finalmente HAProxy tiene un loggin muy flexible y potente y aporta mucha información de conexión HTTP, una muy activa comunidad una API en tiempo real y una buena GUI, a demás de la peculiaridad de ofrecernos gran disponibilidad ya que se puede agregar/eliminar servidores de respaldo dinámicamente, por su parte falta decir que Nginx es muy fácil de trabaja, pero no es muy aconsejable para sistemas complejos o muy grandes.
+* Por su parte Nginx es multiplataforma pero HAProxy es compatible con proxy TCP. 
+* Finalmente HAProxy tiene un loggin muy flexible y potente y aporta mucha información de conexión HTTP, una muy activa comunidad una API en tiempo real y una buena GUI, a demás de la peculiaridad de ofrecernos gran disponibilidad ya que se puede agregar/eliminar servidores de respaldo dinámicamente, por su parte falta decir que Nginx es muy fácil de trabaja, pero no es muy aconsejable para sistemas complejos o muy grandes.
 
 **Conclusión**
 
 En definitiva, Nginx nos ofrece la oportunidad de servicio web, es muy simple y sencillo de configurar y prácticamente igual de veloz que su competidor a la hora de balancear carga, pero posee unas claras desventajas en comparación con HAProxy a la hora de gestionar cargas muy grandes, siendo éste servicio elegido por las grandes empresas que soportan millones de accesos diarios en grandes masas.
+
+**Bibliografia utilizada**
+![NvsH_1](https://www.keycdn.com/support/haproxy-vs-nginx/)
+![Nginx](https://nginx.org/en/)
+![N_1](https://kinsta.com/es/base-de-conocimiento/que-es-nginx/)
+![N_2](https://www.1and1.es/digitalguide/servidores/configuracion/nginx-conceptos-basicos-instalacion-y-configuracion/)
+![HAProxy](http://www.haproxy.org/)
+![H_1](https://manuais.iessanclemente.net/index.php/Balanceo_de_carga_con_Haproxy)
+![H_2](http://facilcloud.com/docs/es_ES/haproxy/)
+![H_3](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
+![NvsH_2](https://www.freelancinggig.com/blog/2017/04/26/haproxy-vs-nginx-software-load-balancer-better/)
+![NvsH_3](http://www.loadbalancer.org/blog/nginx-vs-haproxy/)
+![cab](https://www.dnsqueries.com/es/chequear_http_headers.php)
