@@ -1,7 +1,7 @@
 # Trabajo sobre Nginx y Haproxy
 ### Por Adrián Gabriel Gámez López
 
-##Nginx
+**Nginx**
 
 Nginx (engine x) es un servidor web modular de código abierto desarrollado por el ruso Igor Sysoev en 2004.
 Está programado para hacer las funciones de:
@@ -23,14 +23,16 @@ La instalación del servicio es muy simple, desde lineas de comandos en distribu
 
 Para el desarrollo de la configuración en esta práctica me centraré en la parte dedicada a Linux.
 
-##Configuración Nginx:
-La configuración de un servidor web básico se puede encontrar en el fichero /etc/nginx/ dentro del archivo se modifican las diferentes funciones generales del servidor como:
+**Configuración Nginx:**
+La configuración de un servidor web básico se puede encontrar en el fichero /etc/nginx/nginx.conf, dentro del archivo se modifican las diferentes funciones generales del servidor como:
 * El ususario que ejecuta el servidor.
 * El número de procesos del servidor, ligados a los núcleos de la CPU.
 * El proceso maestro del servidor.
 * La ruta dónde se guardarán los ficheros de log.
 * La multiconexión.
 * La configuración http.
+
+![I_1](./imagenes/Imagen_1.png)
 
 Al final de este fichero, dentro del bloque http, podemos ver una línea por defecto llamada “include /etc/nginx/sites-enabled/*”. Esta línea indica al servidor que debe cargar las configuraciones específicas de diferentes archivos y directorios, a fin de poder funcionar como “servidores virtuales” y permitir habilitar y deshabilitar configuraciones fácilmente sin tener que borrarlas.
 
@@ -42,5 +44,7 @@ Así si editamos el archivo anterior vamos a poder encontrar, entre otras funcio
 * La configuración de un servidor "virtual".
 * Y la configuración HTTPS.
 
-![I_1](./imagenes/Imagen_1.png)
 ![I_2](./imagenes/Imagen_2.png)
+
+**HAProxy**
+
