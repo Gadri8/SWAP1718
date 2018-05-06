@@ -84,14 +84,14 @@ y HAProxy posee una consola de adminstración.
 En definitiva, Nginx nos ofrece la oportunidad de servicio web, es muy simple y sencillo de configurar y prácticamente igual de veloz que su competidor a la hora de balancear carga, pero posee unas claras desventajas en comparación con HAProxy a la hora de gestionar cargas muy grandes, siendo éste servicio elegido por las grandes empresas que soportan millones de accesos diarios en grandes masas.
 
 **Bibliografia utilizada**
-![NvsH_1](https://www.keycdn.com/support/haproxy-vs-nginx/)
-![Nginx](https://nginx.org/en/)
-![N_1](https://kinsta.com/es/base-de-conocimiento/que-es-nginx/)
-![N_2](https://www.1and1.es/digitalguide/servidores/configuracion/nginx-conceptos-basicos-instalacion-y-configuracion/)
-![HAProxy](http://www.haproxy.org/)
-![H_1](https://manuais.iessanclemente.net/index.php/Balanceo_de_carga_con_Haproxy)
-![H_2](http://facilcloud.com/docs/es_ES/haproxy/)
-![H_3](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
-![NvsH_2](https://www.freelancinggig.com/blog/2017/04/26/haproxy-vs-nginx-software-load-balancer-better/)
-![NvsH_3](http://www.loadbalancer.org/blog/nginx-vs-haproxy/)
-![cab](https://www.dnsqueries.com/es/chequear_http_headers.php)
+![NvsH_1]https://www.keycdn.com/support/haproxy-vs-nginx/
+![Nginx]https://nginx.org/en/
+![N_1]https://kinsta.com/es/base-de-conocimiento/que-es-nginx/
+![N_2]https://www.1and1.es/digitalguide/servidores/configuracion/nginx-conceptos-basicos-instalacion-y-configuracion/
+![HAProxy]http://www.haproxy.org/
+![H_1]https://manuais.iessanclemente.net/index.php/Balanceo_de_carga_con_Haproxy
+![H_2]http://facilcloud.com/docs/es_ES/haproxy/
+![H_3]https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts
+![NvsH_2]https://www.freelancinggig.com/blog/2017/04/26/haproxy-vs-nginx-software-load-balancer-better/
+![NvsH_3]http://www.loadbalancer.org/blog/nginx-vs-haproxy/
+![cab]https://www.dnsqueries.com/es/chequear_http_headers.php
