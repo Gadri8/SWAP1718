@@ -42,5 +42,5 @@ Así si editamos el archivo anterior vamos a poder encontrar, entre otras funcio
 * La configuración de un servidor "virtual".
 * Y la configuración HTTPS.
 
-![I_1](./imagenes/Imagenes_1.png)
-![I_2](./imagenes/Imagenes_2.png)
+![I_1](./imagenes/Imagen_1.png)
+![I_2](./imagenes/Imagen_2.png)
