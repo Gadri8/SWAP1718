@@ -2,7 +2,7 @@
 ### Adrián Gabriel Gámez López ###
 
 ## Índice: ##
-0- Introducción
+0- Introducción /n
 1- Dominio
 2- Plan de Hosting
 3- CMS
@@ -10,12 +10,12 @@
 5- Webgrafia
 
 
-# 0- Introducción #
+## 0- Introducción ##
 
 A lo largo de éste trabajo se intentará explicar de forma **sencilla y cómoda**, cómo **cualquier persona**, ya sea experimentada o incluso que no tenga conocimientos extensos en temas de informática, puede crear **su propia página web** y configurarla, basándonos en los siguientes cuatro puntos:
 
 
-#1- Dominio# 
+## 1- Dominio ## 
 
 El **dominio** es el **nombre exclusivo** que se asigna a un sitio web y es por el cuál la página pueda ser **indexada**, así puede ser **accesible** para los ususarios ya que se ocupa de traducir e identificar su dirección IP.
 
