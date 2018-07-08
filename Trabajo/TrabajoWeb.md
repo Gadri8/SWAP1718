@@ -1,7 +1,7 @@
-#Cómo crear un sitio web
-###Adrián Gabriel Gámez López
+# Cómo crear un sitio web #
+### Adrián Gabriel Gámez López ###
 
-##Índice:
+## Índice: ##
 0- Introducción
 1- Dominio
 2- Plan de Hosting
@@ -10,7 +10,7 @@
 5- Webgrafia
 
 
-#0- Introducción
+# 0- Introducción #
 
 A lo largo de éste trabajo se intentará explicar de forma **sencilla y cómoda**, cómo **cualquier persona**, ya sea experimentada o incluso que no tenga conocimientos extensos en temas de informática, puede crear **su propia página web** y configurarla, basándonos en los siguientes cuatro puntos:
 
