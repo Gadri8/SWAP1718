@@ -1,5 +1,5 @@
 # Cómo crear un sitio web #
-#### por: Adrián Gabriel Gámez López ####
+ Adrián Gabriel Gámez López 
 
 ## Índice: ##
 
