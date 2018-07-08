@@ -1,13 +1,14 @@
 # Cómo crear un sitio web #
-### Adrián Gabriel Gámez López ###
+#### por: Adrián Gabriel Gámez López ####
 
 ## Índice: ##
-0- Introducción /n
-1- Dominio
-2- Plan de Hosting
-3- CMS
-4- Mejoras Adicionales
-5- Webgrafia
+
+ 0- Introducción /n
+ 1- Dominio
+ 2- Plan de Hosting
+ 3- CMS
+ 4- Mejoras Adicionales
+ 5- Webgrafia
 
 
 ## 0- Introducción ##
