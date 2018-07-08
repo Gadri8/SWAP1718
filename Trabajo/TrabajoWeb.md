@@ -3,12 +3,12 @@
 
 ## Índice: ##
 
--0- Introducción 
--1- Dominio
--2- Plan de Hosting
--3- CMS
--4- Mejoras Adicionales
--5- Webgrafia
+ 0. - Introducción 
+ 1. - Dominio
+ 2. - Plan de Hosting
+ 3. - CMS
+ 4. - Mejoras Adicionales
+ 5. - Webgrafia
 
 
 ## 0- Introducción ##
