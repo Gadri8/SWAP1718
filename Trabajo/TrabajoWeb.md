@@ -7,8 +7,7 @@
  1. Dominio
  2. Plan de Hosting
  3. CMS
- 4. Mejoras Adicionales
- 5. Webgrafia
+ 4. Webgrafia
 
 
 ## 0- Introducción ##
@@ -22,17 +21,17 @@ El **dominio** es el **nombre exclusivo** que se asigna a un sitio web y es por 
 
 Hay diversos tipos de Dominios y es muy favorable tener en cuenta qué **categoría es la más correcta**.
 
--*Genéricos, internacionales o globales*: Son los **básicos** en Internet y **más usados** a nivel mundial, siempre se componen por terminaciones de **tres letras** y poseen enfoques distintos dependiendo de su composición, por ejemplo: .com, .org, .net ...
--*Territoriales o geográficos*: Son los mantenidos por **cada país** y usados generalmente por **organizaciones y empresas** posicionadas en dicho país, son terminaciones de **dos letras**, como .es o .eu.
--*Personalizados*: Suelen aportar **información adiciona**l sobre la actividad de la web, como por ejemplo .blog, .shop, etc.
--*Tercer nivel*: Son **híbridos** entre los dos primeros, aportando la misma finalidad que los **genéricos** pero siendo identificados por **país**. Por ejemplo: .edu.es o .com.os.
+- *Genéricos, internacionales o globales*: Son los **básicos** en Internet y **más usados** a nivel mundial, siempre se componen por terminaciones de **tres letras** y poseen enfoques distintos dependiendo de su composición, por ejemplo: .com, .org, .net ...
+- *Territoriales o geográficos*: Son los mantenidos por **cada país** y usados generalmente por **organizaciones y empresas** posicionadas en dicho país, son terminaciones de **dos letras**, como .es o .eu.
+- *Personalizados*: Suelen aportar **información adiciona**l sobre la actividad de la web, como por ejemplo .blog, .shop, etc.
+- *Tercer nivel*: Son **híbridos** entre los dos primeros, aportando la misma finalidad que los **genéricos** pero siendo identificados por **país**. Por ejemplo: .edu.es o .com.os.
 
 La decisión que tomaremos a continuación puede resultar algo banal, pero **elegir un nombre de dominio adecuado** es muy importante de cara al futuro:
 
--Elegir bien la **terminación de dominio**, ya que resultaría más correcto y puede dotar de distindo valor o significado el uso de uno u otro, teniendo en cuenta el objetivo mismo del sitio web.
--No exceder de las **15 letras de extensión** ni ser **ininteligible** o **impronunciable**, no existen reglas concretas como tal a la hora de nombrar una página pero por combención y habitualidad, un dominio debe ser sencillo y no muy largo, ya que el proposito principal de un dominio es convertir una dirección IP, difícil de aprender en algo más sencillo, además ayudará a la propagación y conocimiento de la misma sobre demás usuarios potenciales.
--Hay **aspectos jurídicos y legales** a tener en cuenta, como que a la hora de comprar un dominio se debe poseer una acreditación de la ICANN (Corporacion de Internet para la Asignación de Nombres y Números) por parte del vendedor y el conocimiento de la legislación y normativa territorial relacionada con el tema. 
--Tener en cuenta **derechos** de Patentes y Marcas.
+- Elegir bien la **terminación de dominio**, ya que resultaría más correcto y puede dotar de distindo valor o significado el uso de uno u otro, teniendo en cuenta el objetivo mismo del sitio web.
+- No exceder de las **15 letras de extensión** ni ser **ininteligible** o **impronunciable**, no existen reglas concretas como tal a la hora de nombrar una página pero por combención y habitualidad, un dominio debe ser sencillo y no muy largo, ya que el proposito principal de un dominio es convertir una dirección IP, difícil de aprender en algo más sencillo, además ayudará a la propagación y conocimiento de la misma sobre demás usuarios potenciales.
+- Hay **aspectos jurídicos y legales** a tener en cuenta, como que a la hora de comprar un dominio se debe poseer una acreditación de la ICANN (Corporacion de Internet para la Asignación de Nombres y Números) por parte del vendedor y el conocimiento de la legislación y normativa territorial relacionada con el tema. 
+- Tener en cuenta **derechos** de Patentes y Marcas.
 
 Una vez que ya tenemos elegida la categoría, decidido el nombre de dominio y comprobado su disponibilidad, sólo quedaría **registrarlo**. 
 Existen infinidad de plataformas para ello, el hecho reside en no contentarse con la primera opción y barajar **diversas posibilidades** en cuestiones de **duración**, **portabilidad**, **precio**, paquetes extra...
@@ -53,7 +52,7 @@ La **decisión** de contratar uno u otro servicio puede venir dado por el **tipo
 
 - *Hosting Compartido*. Un plan de alojamiento en el que se **comparten recursos** en un servidor usado por **varios usuarios** e incluso tener **varios sitios web** alojados en el **mismo hosting**.
 - *Servidor Virtual VPS*. Un servidor virtual privado o VPS, es un servidor **físico dividido** en múltiples **máquinas virtuales independientes** entre sí, así el coste del hardware, que al ser compartido, es menor y que al ser máquinas virtuales, se garantiza que **los recursos no se comparten con nadie** y se pueden utilizar como prefiramos, esto nos concede **más potencia** y **flexibilidad** que los anteriores.
-- *Hosting WordePress*. Un plan ofrecido por uno de los mayores **gestores de contenidos** más usados. Ofrecen **servidores nginx**, sistemsa de caché redis y varnish, **actualizaciones y backups automáticas**...
+- *Hosting WordPress*. Un plan ofrecido por uno de los mayores **gestores de contenidos** más usados. Ofrecen **servidores nginx**, sistemsa de caché redis y varnish, **actualizaciones y backups automáticas**...
 - *Servidor dedicado*. Se define como una **máquina física** con un uso **exclusivo** para un único cliente, siendo el **usuario absoluto de todos los servicios** de ancho de banda, espacio de disco, transferencia, rendimiento... Son especialmente **necesarios** para sitios con un **gran tráfico** o que necesiten un intensivo uso de los recursos. 
 - *Hosting business*. Ofrece mucha potencia con una menor complicidad, se obtienen **servicios dedicados** para soportar un **gran tráfico** de accesos y acciones sobre el sitio web. Idóneo para una **tienda online**.
 
@@ -90,15 +89,25 @@ Hay un montón de ellos de distintas funcionalidades y aplicaciones, a continuac
 ![T3](./imagenes/t3.png)
 - *Shopify*: Se trata de un servicio de gestión de contenidos de forma **cloud**, es decir, un servicio en la nube, que nos ahorra trabajo en cuestión de la **gestión de pedidos**, **pagos**, seguridad, etc. Es muy popular por la posibilidad que nos ofrece de **implementar plantillas** y **diseños personalizados** de forma simple, que sumado a la diponibilidad de poder obtener diversas plantillas gratuitas y su **diseño responsive** la hacen una atractiva opción para montar una tienda online.
 
+![T4](/imagenes/t4.png)
+- *Drupal*: Es un CMS orientado al desarrollo web para facilitar la **creación**, **actualización** y **gestión de contenidos**, por lo que es usado para **blogs** y **páginas web corporativas**, es **gratuito**, no tiene licencia de uso y es de **código abierto**, por lo que es actualizado de forma continua y mejorado por la comunidad. También sobresale por su **flexibilidad** y **escalabilidad** a la par de una gran **robustez** y **fiabilidad** gracias a, como ya se ha comentado, es **innovadora** gracias a su activa comunidad.
 
+![T5](/imagenes/t5.png)
+- *Joomla*:
 
-Webgrafia:
-https://www.ovh.es/hosting/website/
-https://neoattack.com/como-registrar-un-dominio/
-https://www.adslzone.net/internet/registrar-dominio-web
-https://es.godaddy.com/blog/que-es-el-hosting-web-y-para-que-sirve/
-https://linube.com/blog/eh-que-es-un-plan-de-hosting/
-https://www.gianoliveira.com/configurar-dns-de-dominio.html
-https://www.escueladeinternet.com/tipos-de-cms-para-creacion-web/
-https://desarrolloweb.com/articulos/que-es-un-cms.html
-https://raiolanetworks.es/blog/cms-o-gestores-de-contenido-web-mas-utilizados/
+![T6](/imagenes/t6.png)
+- *WordPress*:
+
+## 4- Webgrafia ##
+- (https://www.ovh.es/hosting/website/)
+- (https://neoattack.com/como-registrar-un-dominio/)
+- (https://www.adslzone.net/internet/registrar-dominio-web)
+- (https://es.godaddy.com/blog/que-es-el-hosting-web-y-para-que-sirve/)
+- (https://linube.com/blog/eh-que-es-un-plan-de-hosting/)
+- (https://www.gianoliveira.com/configurar-dns-de-dominio.html)
+- (https://www.escueladeinternet.com/tipos-de-cms-para-creacion-web/)
+- (https://desarrolloweb.com/articulos/que-es-un-cms.html)
+- (https://raiolanetworks.es/blog/cms-o-gestores-de-contenido-web-mas-utilizados/)
+- (http://www.comunic-art.com/drupal/drupal.html)
+- (https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=119:ique-es-y-para-que-sirve-joomla-cms-potente-e-interesante-para-crear-paginas-web-de-todo-tipo-cu00403a&catid=38&Itemid=152)
+- (https://wpavanzado.com/que-es-wordpress/)
