@@ -30,7 +30,7 @@ Hay diversos tipos de Dominios y es muy favorable tener en cuenta qué **categor
 La decisión que tomaremos a continuación puede resultar algo banal, pero **elegir un nombre de dominio adecuado** es muy importante de cara al futuro:
 
 -Elegir bien la **terminación de dominio**, ya que resultaría más correcto y puede dotar de distindo valor o significado el uso de uno u otro, teniendo en cuenta el objetivo mismo del sitio web.
--No exceder de las **15 letras de extensión** ni ser **ininteligible** o **impronunciable**, no existen reglas concretas como tal a la hora de nombrar una página pero por combención y habitualidad, un dominio debe ser sencillo y no muy largo, ya que el proposito principal de un dominio es convertir una dirección IP, difícil de aprender en algo más sencillo, a demás ayudará a la propagación y conocimiento de la misma sobre demás usuarios potenciales.
+-No exceder de las **15 letras de extensión** ni ser **ininteligible** o **impronunciable**, no existen reglas concretas como tal a la hora de nombrar una página pero por combención y habitualidad, un dominio debe ser sencillo y no muy largo, ya que el proposito principal de un dominio es convertir una dirección IP, difícil de aprender en algo más sencillo, además ayudará a la propagación y conocimiento de la misma sobre demás usuarios potenciales.
 -Hay **aspectos jurídicos y legales** a tener en cuenta, como que a la hora de comprar un dominio se debe poseer una acreditación de la ICANN (Corporacion de Internet para la Asignación de Nombres y Números) por parte del vendedor y el conocimiento de la legislación y normativa territorial relacionada con el tema. 
 -Tener en cuenta **derechos** de Patentes y Marcas.
 
@@ -63,7 +63,7 @@ Pero a la hora de elegir cual es el **hosting ,ás adecuado** para ti, hay que t
 - *Nº Cuentas de Correo*: **Número de direcciones de correo electrónico** que se pueden crear para el hosting, pueden ser limitado o ilimitado.
 - *Panel de control*: Herramienta que nos ayuda a **gestionar** todos los **servicios y aplicaciones** de las que disponemos.
 - *Tráfico mensual*: El **tráfico mensual** o la **transferencia mensual** es la potecia que nuestro hosting ofrece a la hora de **transmitir información** hacia el usuario o hacia la página, y muchas veces viene **limitado** por el plan de hosting contratado y el ancho de banda utilizado.
-- *Bases de Datos*: El **número de bases de datos** (BBDD) que **podemos tener** también es **esencial** a la hora de buscar un plan de hosting, ya que también nos limitará la creacción de sitios webs en el mismo servicio.
+- *Bases de Datos*: El **número de bases de datos** (BBDD) que **podemos tener** también es **esencial** a la hora de buscar un plan de hosting, ya que también nos limitará la creación de sitios webs en el mismo servicio.
 - *Garantía de disponibilidad*: Por lo **general** suelen ofrecerse una **disponibilidad** de al **menos 99,5% o 99,99%**, pero si no viene identificado e las características es mejor asegurarse de ello.
 - *Soporte Técnico*: Puede resulta importante para un buen hosting, ya que nos puede ofrecer una **ayuda rápida y fácil** para cualquier problema especializado.
 - *Precio*: Cómo no, el precio, también es algo a **tener en cuenta** ya que una buena disponibilidad y hardware de calidad es algo caro, aunque **no debe ser un factor decisivo**.
@@ -72,7 +72,7 @@ Finalmente siempre hay que tener en cuenta la letra pequeña y leer y **conocer*
 
 Ahora y por último, debemos configurar el **servidor DNS** (Sistema de Nombres de Dominio) que será el encargado de **traducir** la dirección **IP del hosting** que hemos contratado con el **nombre de dominio** que poseemos, para que nuestros usuarios puedan acceder de forma sencilla a nuestro sitio web.
 
-Muchos planes de Hosting a demás también nos ofrecen un dominio y por tanto ellos se encargan de asignar los DNS del mismo.
+Muchos planes de Hosting además también nos ofrecen un dominio y por tanto ellos se encargan de asignar los DNS del mismo.
 
 
 #3- CMS#
@@ -81,7 +81,9 @@ Los CMS del iniglés (Content Management System) o Gestores de Contenidos, nos p
 
 Hay un montón de ellos de distintas funcionalidades y aplicaciones:
 
-
+![T1](../imagenes/t1.png)
+- *Prestashop*: El propósito de este gestor de contenidos es para la creación de **tiendas online**, conocidas como E-Commerce. Prestashop suele ser la **mejor opción** para los desarrolladores de tiendas online. Es un **potente gestor de contenidos** de fácil manejo, funciona con CSS, por lo que nos aporta también un montón de **personalización** de aspecto y su tema por defecto está validado por la W3C (World Wide Web Consortium) que se encarga de la estandarización en  ámbito de Internet, es muy **ligera** y **fácil** de instalar. El **Panel de Control** es muy **completo** y **sencillo** de manejar .Según estudios de Google, es la aplicación e-commerce **más rápida** del mercado, incluso es capaz de indexar de forma natural, ganando mucho valor de cara al posicionamiento SEO (Search Engine Optimization), el cual coloca en posiciones más ventajosas en los navegadores de búsqueda, cosa que es muy importante de cara a la **competencia** y la **accesibilidad** de la tienda.  
+- *Magento*: Magento es otro CMS de **e-commerce** relativamente **nuevo**, pero a pesar de ello se ha situado como uno de los más **populares** para **creación** y **gestión** de **comercios online**. Sistema **muy potente** que ofrece funcionalidades tan ámplias como **multitienda**, **gestión** de **características** y **atributos**, **edición** de **pedido**, **analítica**, **monitorización** y control de **envíos**, integración de optimización **SEO**... El **problema** de Magento es que **requiere un conocimiento técnico avanzado** y un **complejo aprendizaje** del uso de un panel de control **poco intuitivo**, ocupa **mucho espacio** y es más **complejo** de instalar, pero debido a su gran funcionalidad es la mejor opción para **grandes empresas** con personal especializado que se ocupe de ello.
 
 Webgrafia:
 https://www.ovh.es/hosting/website/
