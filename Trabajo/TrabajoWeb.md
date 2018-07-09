@@ -38,7 +38,7 @@ Una vez que ya tenemos elegida la categoría, decidido el nombre de dominio y co
 Existen infinidad de plataformas para ello, el hecho reside en no contentarse con la primera opción y barajar **diversas posibilidades** en cuestiones de **duración**, **portabilidad**, **precio**, paquetes extra...
 
 
-#2- Hosting#
+## 2- Hosting ##
 
 Pues si bien necesitamos un **dominio adecuado**, para que la página final sea **accesible**, necesitamos también de un **hosting o alojamiento** y de un **servidor**, también ligado a todo esto se debe configurar un **DNS**.
 
@@ -75,19 +75,19 @@ Ahora y por último, debemos configurar el **servidor DNS** (Sistema de Nombres 
 Muchos planes de Hosting además también nos ofrecen un dominio y por tanto ellos se encargan de asignar los DNS del mismo.
 
 
-#3- CMS#
+## 3- CMS ##
 
 Los CMS del inglés (Content Management System) o Gestores de Contenidos, nos permiten diseñar un sitio web dinámico e interactivo.
 
 Hay un montón de ellos de distintas funcionalidades y aplicaciones, a continuación unos ejemplos de los más usados:
 
-![T1](../imagenes/t1.png)
+!(../imagenes/t1.png)
 - *Prestashop*: El propósito de este gestor de contenidos es para la creación de **tiendas online**, conocidas como E-Commerce. Prestashop suele ser la **mejor opción** para los desarrolladores de tiendas online. Es un **potente gestor de contenidos** de fácil manejo, funciona con CSS, por lo que nos aporta también un montón de **personalización** de aspecto y su tema por defecto está validado por la W3C (World Wide Web Consortium) que se encarga de la estandarización en  ámbito de Internet, es muy **ligera** y **fácil** de instalar. El **Panel de Control** es muy **completo** y **sencillo** de manejar .Según estudios de Google, es la aplicación e-commerce **más rápida** del mercado, incluso es capaz de indexar de forma natural, ganando mucho valor de cara al posicionamiento SEO (Search Engine Optimization), el cual coloca en posiciones más ventajosas en los navegadores de búsqueda, cosa que es muy importante de cara a la **competencia** y la **accesibilidad** de la tienda.  
 
-![T2](../imagenes/t2.png)
+!(../imagenes/t2.png)
 - *Magento*: Magento es otro CMS de **e-commerce** relativamente **nuevo**, pero a pesar de ello se ha situado como uno de los más **populares** para **creación** y **gestión** de **comercios online**. Sistema **muy potente** que ofrece funcionalidades tan ámplias como **multitienda**, **gestión** de **características** y **atributos**, **edición** de **pedido**, **analítica**, **monitorización** y control de **envíos**, integración de optimización **SEO**... El **problema** de Magento es que **requiere un conocimiento técnico avanzado** y un **complejo aprendizaje** del uso de un panel de control **poco intuitivo**, ocupa **mucho espacio** y es más **complejo** de instalar, pero debido a su gran funcionalidad es la mejor opción para **grandes empresas** con personal especializado que se ocupe de ello.
 
-![T3](../imagenes/t3.png)
+!(../imagenes/t3.png)
 - *Shopify*: Se trata de un servicio de gestión de contenidos de forma **cloud**, es decir, un servicio en la nube, que nos ahorra trabajo en cuestión de la **gestión de pedidos**, **pagos**, seguridad, etc. Es muy popular por la posibilidad que nos ofrece de **implementar plantillas** y **diseños personalizados** de forma simple, que sumado a la diponibilidad de poder obtener diversas plantillas gratuitas y su **diseño responsive** la hacen una atractiva opción para montar una tienda online.
 
 
