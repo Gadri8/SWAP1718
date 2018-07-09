@@ -89,13 +89,13 @@ Hay un montón de ellos de distintas funcionalidades y aplicaciones, a continuac
 ![T3](./imagenes/t3.png)
 - *Shopify*: Se trata de un servicio de gestión de contenidos de forma **cloud**, es decir, un servicio en la nube, que nos ahorra trabajo en cuestión de la **gestión de pedidos**, **pagos**, seguridad, etc. Es muy popular por la posibilidad que nos ofrece de **implementar plantillas** y **diseños personalizados** de forma simple, que sumado a la diponibilidad de poder obtener diversas plantillas gratuitas y su **diseño responsive** la hacen una atractiva opción para montar una tienda online.
 
-![T4](/imagenes/t4.png)
+![T4](./imagenes/t4.png)
 - *Drupal*: Es un CMS orientado al desarrollo web para facilitar la **creación**, **actualización** y **gestión de contenidos**, por lo que es usado para **blogs** y **páginas web corporativas**, es **gratuito**, no tiene licencia de uso y es de **código abierto**, por lo que es actualizado de forma continua y mejorado por la comunidad. También sobresale por su **flexibilidad** y **escalabilidad** a la par de una gran **robustez** y **fiabilidad** gracias a, como ya se ha comentado, es **innovadora** gracias a su activa comunidad.
 
-![T5](/imagenes/t5.png)
+![T5](./imagenes/t5.png)
 - *Joomla*:
 
-![T6](/imagenes/t6.png)
+![T6](./imagenes/t6.png)
 - *WordPress*:
 
 ## 4- Webgrafia ##
