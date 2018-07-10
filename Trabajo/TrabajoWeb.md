@@ -12,18 +12,18 @@
 
 ## 0- Introducción ##
 
-A lo largo de éste trabajo se intentará explicar de forma **sencilla y cómoda**, cómo **cualquier persona**, ya sea experimentada o incluso que no tenga conocimientos extensos en temas de informática, puede crear **su propia página web** y configurarla, basándonos en los siguientes cuatro puntos:
+A lo largo de éste trabajo se intentará explicar de forma **sencilla y cómoda**, cómo **cualquier persona**, ya sea experimentada o incluso que no tenga conocimientos extensos en temas de informática, puede crear **su propia página web** y configurarla, basándonos en los siguientes tres puntos:
 
 
 ## 1- Dominio ## 
 
-El **dominio** es el **nombre exclusivo** que se asigna a un sitio web y es por el cuál la página pueda ser **indexada**, así puede ser **accesible** para los ususarios ya que se ocupa de traducir e identificar su dirección IP.
+El **dominio** es el **nombre exclusivo** que se asigna a un sitio web y es por el cuál la página pueda ser **indexada**, así puede ser **accesible** para los usuarios, ya que se ocupa de traducir e identificar su dirección IP.
 
 Hay diversos tipos de Dominios y es muy favorable tener en cuenta qué **categoría es la más correcta**.
 
 - *Genéricos, internacionales o globales*: Son los **básicos** en Internet y **más usados** a nivel mundial, siempre se componen por terminaciones de **tres letras** y poseen enfoques distintos dependiendo de su composición, por ejemplo: .com, .org, .net ...
 - *Territoriales o geográficos*: Son los mantenidos por **cada país** y usados generalmente por **organizaciones y empresas** posicionadas en dicho país, son terminaciones de **dos letras**, como .es o .eu.
-- *Personalizados*: Suelen aportar **información adiciona**l sobre la actividad de la web, como por ejemplo .blog, .shop, etc.
+- *Personalizados*: Suelen aportar **información adicional** sobre la actividad de la web, como por ejemplo .blog, .shop, etc.
 - *Tercer nivel*: Son **híbridos** entre los dos primeros, aportando la misma finalidad que los **genéricos** pero siendo identificados por **país**. Por ejemplo: .edu.es o .com.os.
 
 La decisión que tomaremos a continuación puede resultar algo banal, pero **elegir un nombre de dominio adecuado** es muy importante de cara al futuro:
@@ -78,7 +78,7 @@ Muchos planes de Hosting además también nos ofrecen un dominio y por tanto ell
 
 Los CMS del inglés (Content Management System) o Gestores de Contenidos, nos permiten diseñar un sitio web dinámico e interactivo.
 
-Hay un montón de ellos de distintas funcionalidades y aplicaciones, a continuación unos ejemplos de los más usados:
+Hay un montón de ellos de **distintas funcionalidades** y **aplicaciones**, a continuación unos ejemplos de los más usados:
 
 ![T1](./imagenes/t1.png)
 - *Prestashop*: El propósito de este gestor de contenidos es para la creación de **tiendas online**, conocidas como E-Commerce. Prestashop suele ser la **mejor opción** para los desarrolladores de tiendas online. Es un **potente gestor de contenidos** de fácil manejo, funciona con CSS, por lo que nos aporta también un montón de **personalización** de aspecto y su tema por defecto está validado por la W3C (World Wide Web Consortium) que se encarga de la estandarización en  ámbito de Internet, es muy **ligera** y **fácil** de instalar. El **Panel de Control** es muy **completo** y **sencillo** de manejar .Según estudios de Google, es la aplicación e-commerce **más rápida** del mercado, incluso es capaz de indexar de forma natural, ganando mucho valor de cara al posicionamiento SEO (Search Engine Optimization), el cual coloca en posiciones más ventajosas en los navegadores de búsqueda, cosa que es muy importante de cara a la **competencia** y la **accesibilidad** de la tienda.  
