@@ -56,7 +56,7 @@ La **decisión** de contratar uno u otro servicio puede venir dado por el **tipo
 - *Servidor dedicado*. Se define como una **máquina física** con un uso **exclusivo** para un único cliente, siendo el **usuario absoluto de todos los servicios** de ancho de banda, espacio de disco, transferencia, rendimiento... Son especialmente **necesarios** para sitios con un **gran tráfico** o que necesiten un intensivo uso de los recursos. 
 - *Hosting business*. Ofrece mucha potencia con una menor complicidad, se obtienen **servicios dedicados** para soportar un **gran tráfico** de accesos y acciones sobre el sitio web. Idóneo para una **tienda online**.
 
-Pero a la hora de elegir cual es el **hosting ,ás adecuado** para ti, hay que tener varios factores a valorar:
+Pero a la hora de elegir cual es el **hosting más adecuado** para ti, hay que tener varios factores a valorar:
 
 - *Espacio web*: **Espacio del que disponemos** en el servidor para alojar el proyecto web. Cada plan dispone de diferentes espacios disponibles.
 - *Nº Cuentas de Correo*: **Número de direcciones de correo electrónico** que se pueden crear para el hosting, pueden ser limitado o ilimitado.
@@ -90,13 +90,17 @@ Hay un montón de ellos de distintas funcionalidades y aplicaciones, a continuac
 - *Shopify*: Se trata de un servicio de gestión de contenidos de forma **cloud**, es decir, un servicio en la nube, que nos ahorra trabajo en cuestión de la **gestión de pedidos**, **pagos**, seguridad, etc. Es muy popular por la posibilidad que nos ofrece de **implementar plantillas** y **diseños personalizados** de forma simple, que sumado a la diponibilidad de poder obtener diversas plantillas gratuitas y su **diseño responsive** la hacen una atractiva opción para montar una tienda online.
 
 ![T4](./imagenes/t4.png)
-- *Drupal*: Es un CMS orientado al desarrollo web para facilitar la **creación**, **actualización** y **gestión de contenidos**, por lo que es usado para **blogs** y **páginas web corporativas**, es **gratuito**, no tiene licencia de uso y es de **código abierto**, por lo que es actualizado de forma continua y mejorado por la comunidad. También sobresale por su **flexibilidad** y **escalabilidad** a la par de una gran **robustez** y **fiabilidad** gracias a, como ya se ha comentado, es **innovadora** gracias a su activa comunidad.
+- *Drupal*: Es un CMS orientado al desarrollo web para facilitar la **creación**, **actualización** y **gestión de contenidos**, por lo que es usado para **blogs** y **páginas web corporativas**, es **gratuito**, no tiene licencia de uso y es de **código abierto**, por lo que es actualizado de forma continua y mejorado por la comunidad. También sobresale por su **flexibilidad** y **escalabilidad** a la par de una gran **robustez** y **fiabilidad** gracias a, como ya se ha comentado, es **innovadora** gracias a su activa comunidad. La única pega de Drupal es que está enficado a un perfil de programador **experto** y experimentado.
 
 ![T5](./imagenes/t5.png)
-- *Joomla*:
+- *Joomla*: Otro **gestor de contenidos** para desarrollo web, especialmente desarrollado para **gestionar páginas web**, tanto para la **publicación** por parte del gestor de la página como para la **interacción** de los ususarios a través de publicación de **artículos, encuestas** o colaboraciones por parte del gestor. Joomla se basa en estándares propios de programación web como HTML,PHP, CSS y es totalmente de software libre, estando desarrollado por una comunidad que lo mejora y actualiza
 
 ![T6](./imagenes/t6.png)
-- *WordPress*:
+- *WordPress*: Finalmente unos de los **mejores** y **más usados** CMS de todos los tiempos, WordPress, al igual que los dos anteriores su propósito inicial era el de **gestionar y crear** textos e imágenes para **blogs**, pero gracias a su opensource y su gran modularidad, actualmente es **más que eso**.
+Wordpress es capaz no solo de generar Blogs, sino que también es capaz de desarrollar **páginas web corporativas**, **Portfolios**, alternatica a las páginas de **eLearning** e incluso para crear **comercios online**. 
+Ofrece una gran **flexibilidad** a la hora de crear lo que tu quieras como quieras, es muy **fácil de aprender** e incluso facilita el los lenguajes HTML, PHP o CSS a una sencilla interpretación basada en etiquetas, es **responsive** y **compatible** con **dispositivos móviles** y ayuda al **posicionamiento SEO** de tus contenidos.
+Hay tres componentes que hacen de Wordpress una herramienta tan potente y son, sus compelmentos **Plugin**, que aunmentan las capacidades y posibilidades para varios de sus muchos usos, sus **Temas**, que son plantillas utilizadas para personalizar y caracterizar la apariencia y el diseño del sitio y finalmente los **Widgets**, pequeños bloques de información que ayudan al usuario a tener un mayor control sobre los contenidos y el diseño de un sitio web.
+
 
 ## 4- Webgrafia ##
 - (https://www.ovh.es/hosting/website/)
